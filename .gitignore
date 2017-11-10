@@ -14,8 +14,8 @@ Thumbs.db
 
 # Unity garbage #
 #################
-MGNE2/Library/*
-MGNE2/Temp/*
+MGNE3/Library/*
+MGNE3/Temp/*
 
 # Visual Studio garbage #
 #########################
