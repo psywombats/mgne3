@@ -20,4 +20,4 @@ MGNE3/Temp/*
 # Visual Studio garbage #
 #########################
 *.sln
-MGNE2/.vs/*
+MGNE3/.vs/*
