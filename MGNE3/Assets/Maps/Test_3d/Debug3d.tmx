@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="2017.05.26" orientation="orthogonal" renderorder="right-down" width="8" height="8" tilewidth="16" tileheight="16" nextobjectid="1">
+ <properties>
+  <property name="name" value="mgne3 test map"/>
+  <property name="type" value="3d"/>
+ </properties>
+ <tileset firstgid="1" source="../tilesets/debug3d.tsx"/>
+ <objectgroup name="Events"/>
+ <layer name="Main" width="8" height="8">
+  <data encoding="csv">
+3,3,3,3,3,3,3,3,
+3,4,4,4,3,3,4,3,
+3,4,4,4,4,4,4,3,
+3,4,4,4,3,3,4,3,
+3,3,4,3,3,3,4,3,
+0,3,4,3,3,4,4,3,
+0,3,4,4,4,4,4,3,
+0,3,3,3,3,3,3,3
+</data>
+ </layer>
+</map>
